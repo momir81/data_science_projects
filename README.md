@@ -2,4 +2,4 @@
 
 ## Convolutional denoising autoencoder
 
-* [Medical Noise Filtering](Medical-Image-Denosising/medical_image_remove_noise.ipynb)
+* [Medical Noise Filtering](Medical-Image-Denoising/medical_image_remove_noise.ipynb)
