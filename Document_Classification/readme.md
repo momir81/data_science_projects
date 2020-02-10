@@ -36,7 +36,7 @@ deep convolutional neural network combined with lstm layer, as well as ULMFiT fa
 ## Results:
 
 Document similarity for 5 most common classes:
-![Word documents similarity](https://github.com/momir81/data_science_projects/Document_Classification)
+![Word documents similarity](https://github.com/momir81/data_science_projects/blob/master/Document_Classification/projected.png)
 
 As we see document contents are very similar which affects their inference.
 

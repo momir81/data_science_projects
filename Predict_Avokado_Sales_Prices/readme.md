@@ -1,4 +1,4 @@
-# Project: Predict quantity price of avokado
+# Project: Predict quantity and price of avokado
 ## Approach
 1. Exporatory analysis
 2. Feature engineering (based on analysis and variable statistics)
